@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.tache {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+h1 {
+  background-color: black;
+  margin: 15px 30px;
+  color: white;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+p {
+  width: 130px;
+}
